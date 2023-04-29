@@ -1,5 +1,12 @@
 # saleor-app-taxes
 
+## 1.4.0
+
+### Minor Changes
+
+- 9eacc88: Map new fields from Saleor to Avatax (e.g. discounts, itemCode, description).
+- 3347a30: Add "Shipping tax code" field to Avatax configuration form. Allows to customize the tax code set on the "shipping" item.
+
 ## 1.3.1
 
 ### Patch Changes
